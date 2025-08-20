@@ -1,0 +1,5 @@
+{
+  "name": "openhands-sample",
+  "language": "python",
+  "entry": "sample.py"
+}
